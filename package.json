@@ -1,0 +1,28 @@
+{
+  "name": "insertion-sort-poponsupopon",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poponsupopon/insertion-sort-poponsupopon.git"
+  },
+  "keywords": [
+    "insertion-sort-poponsupopon"
+  ],
+  "author": "poponsupopon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poponsupopon/insertion-sort-poponsupopon/issues"
+  },
+  "homepage": "https://github.com/poponsupopon/insertion-sort-poponsupopon#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1",
+    "fibonacci-sequence-poponsupopon": "1.0.1",
+    "numberguess-poponsupopon": "1.0.1"
+  }
+}
